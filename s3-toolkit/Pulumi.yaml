@@ -1,0 +1,7 @@
+name: s3
+runtime: nodejs
+description: create and manage buckets with customized features like encryption, access controls, lifecycle policies, and logging
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: ""
